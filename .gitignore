@@ -1,0 +1,47 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration file
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# keep shared IDE configs
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# APK / AAB files
+*.apk
+*.aab
+
+# Native build outputs
+*.so
+*.o
+*.obj
+
+# Kotlin / Java
+*.class
+
+# Temporary & cache files
+tmp/
+temp/
+.cache/
+
+# Android Studio captures
+captures/
+
+# Firebase / Google Services
+google-services.json

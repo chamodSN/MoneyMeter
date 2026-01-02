@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MoneyMeter</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="verify">Verify</string>
+    <string name="get_started">Get Started</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="current_pin">Current PIN</string>
+    <string name="new_pin">New PIN</string>
+    <string name="confirm_new_pin">Confirm New PIN</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="monthly_budget_progress">Monthly Budget Progress</string>
+    <string name="expenses">Expenses</string>
+    <string name="expense_categories">Expense Categories</string>
+    <string name="income_categories">Income Categories</string>
+    <string name="set_your_pin">Set Your PIN</string>
+    <string name="create_a_4_digit_pin_to_secure_your_app">Create a 4-digit PIN to secure your app</string>
+    <string name="enter_4_digit_pin">Enter 4-digit PIN</string>
+    <string name="save_pin">Save PIN</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="preferred_currency">Preferred Currency</string>
+    <string name="save_currency">Save Currency</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="security">Security</string>
+    <string name="change_pin">Change PIN</string>
+</resources>
